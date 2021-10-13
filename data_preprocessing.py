@@ -1,6 +1,5 @@
 import glob
 from matplotlib import pyplot as plt
-import numpy as np
 import os
 from torch.utils.data import Dataset
 import pandas as pd
